@@ -16,3 +16,13 @@ body {
     transform: traslate(-50%, -50%);
     z-index: -1;
 }
+
+
+.black-background {
+    position: fixed;
+    margin: 0;
+    width: 200vh;
+    height: 100vh;
+    background-color: rgb(0, 0, 0, 0.4);
+    z-index: 2;
+}
